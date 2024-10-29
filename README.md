@@ -26,8 +26,8 @@ Throughout this journey, I've honed crucial skills in data preparation, modeling
    - ### Project Overview
 The Seven Sages Tea Company project involved creating a comprehensive data model in Power BI to analyze sales and profitability across different customer segments and product lines. The insights from this project helped the CFO make informed decisions about pricing strategies and product promotions.
 
-![Sales Overview](F:\Private Nasser\Nanodegree\1nd Month\Udasity\Datasets\ProjectFinal1\Results Pic\1st res P1.PNG)
-![Detailed Sales Analysis](/path/to/2nd_res_P1.PNG)
+![Sales Overview](Project 1/Results/1st res P1.PNG)
+![Detailed Sales Analysis](Project 1/Results/2nd res P1.PNG)
 
 ### Results
 - **Distributor Sales and Profit Margins**: Distributors accounted for the highest sales, totaling $94,436.00 USD with varying profit margins. Rainier & Co. led the way with sales amounting to $41,760.00 USD and the highest gross profit margins at 60.82%.
@@ -39,9 +39,9 @@ The Seven Sages Tea Company project involved creating a comprehensive data model
    - ### Project Overview
 In the Waggle Pet Device project, I developed a Power BI report to compare performance metrics between two pet monitoring devices. The analysis focused on customer satisfaction and product usability, offering critical insights into product development and marketing strategies, with created detailed reports comparing field test data between Lapcat and Lapdog devices.
 
-![Device Comparison Overview](/path/to/1st_res_P2.PNG)
-![Detailed Device Analysis](/path/to/2nd_res_P2.PNG)
-![Pet Demographics Analysis](/path/to/3rd_res_P2.PNG)
+![Device Comparison Overview](Project 2/Results/1st res P2.PNG)
+![Detailed Device Analysis](Project 2/Results/2nd res P2.PNG)
+![Pet Demographics Analysis](Project 2/Results/3rd res P2.PNG)
 
 ### Results
 - **Device Performance Comparison**: Lapdog devices significantly outperformed Lapcat devices in terms of average daily steps, demonstrating higher customer satisfaction.
@@ -52,9 +52,9 @@ In the Waggle Pet Device project, I developed a Power BI report to compare perfo
    - ### Project Overview
 This project entailed performing a detailed market analysis for a National Clothing Chain using Power BI. The aim was to enhance targeted marketing and reconnect with lost customers through predictive analytics and customer segmentation, with compiled a market analysis report that helped the marketing team to target potential and lost customers effectively, using data-driven strategies to optimize the brand’s market presence.
 
-![Sales and Income Correlation](/F:\Private Nasser\Nanodegree\3rd Month\3rd Project\Results Pic\2nd_res_P3.PNG)
-![Predictive Analysis for Customer Purchases](/path/to/3rd_res_P3.PNG)
-![Product Performance](/path/to/4th_res_P3.PNG)
+![Sales and Income Correlation](Project 3/Results/1st res P3.PNG)
+![Predictive Analysis for Customer Purchases](Project 3/Results/3rd res P3.PNG)
+![Product Performance](Project 3/Results/4th res P3.PNG)
 
 ### Results
 - **Customer Purchasing Behavior**: Analyzed customer ratings across various product categories, identifying key trends and preferences that can guide inventory and promotional strategies.
