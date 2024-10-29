@@ -24,12 +24,30 @@ Throughout this journey, I've honed crucial skills in data preparation, modeling
 ## Projects
 1. **Seven Sages Tea Company**
    - Developed a comprehensive Power BI model to analyze sales data and profitability, providing detailed insights to assist the CFO with strategic financial decisions.
+![Sales Overview](/path/to/1st_res_P1.PNG)
+![Detailed Sales Analysis](/path/to/2nd_res_P1.PNG)
+
+### Project Overview
+The Seven Sages Tea Company project involved creating a comprehensive data model in Power BI to analyze sales and profitability across different customer segments and product lines. The insights from this project helped the CFO make informed decisions about pricing strategies and product promotions.
 
 2. **Waggle Pet Device Analysis**
    - Created detailed reports comparing field test data between Lapcat and Lapdog devices, focusing on customer satisfaction and demographic analytics to guide product improvements and marketing strategies.
+![Device Comparison Overview](/path/to/1st_res_P2.PNG)
+![Detailed Device Analysis](/path/to/2nd_res_P2.PNG)
+![Pet Demographics Analysis](/path/to/3rd_res_P2.PNG)
+
+### Project Overview
+In the Waggle Pet Device project, I developed a Power BI report to compare performance metrics between two pet monitoring devices. The analysis focused on customer satisfaction and product usability, offering critical insights into product development and marketing strategies.
 
 3. **National Clothing Chain Market Analysis**
-   - Compiled a market analysis report that helped the marketing team to target potential and lost customers effectively, using data-driven strategies to optimize the brand’s market presence.
+   - ### Project Overview
+This project entailed performing a detailed market analysis for a National Clothing Chain using Power BI. The aim was to enhance targeted marketing and reconnect with lost customers through predictive analytics and customer segmentation, with compiled a market analysis report that helped the marketing team to target potential and lost customers effectively, using data-driven strategies to optimize the brand’s market presence.
+
+![Sales and Income Correlation](/F:\Private Nasser\Nanodegree\3rd Month\3rd Project\Results Pic\2nd_res_P3.PNG)
+![Predictive Analysis for Customer Purchases](/path/to/3rd_res_P3.PNG)
+![Product Performance](/path/to/4th_res_P3.PNG)
+
+
 
 ## Repository Structure
 Each project folder contains:
