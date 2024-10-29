@@ -26,7 +26,7 @@ Throughout this journey, I've honed crucial skills in data preparation, modeling
    - ### Project Overview
 The Seven Sages Tea Company project involved creating a comprehensive data model in Power BI to analyze sales and profitability across different customer segments and product lines. The insights from this project helped the CFO make informed decisions about pricing strategies and product promotions.
 
-![Sales Overview](Project 1/Results/1st res P1.PNG)
+![Sales Overview](Project%201/Results/1st%20res%20P1.PNG)
 ![Detailed Sales Analysis](Project 1/Results/2nd res P1.PNG)
 
 ### Results
